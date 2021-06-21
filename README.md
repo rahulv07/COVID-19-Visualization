@@ -3,8 +3,9 @@
 
 ## Screenshots:
 
-<img src="images/indian cases.png" align="left" height="400" width="465">
-<img src="images/cases and deaths.png" height="400" width="465">
+<img src="images/indian cases.png" align="left" height="400" width="450">
+<img src="images/cases and deaths.png" align="right" height="400" width="450">
+
 
 **NOTE:** Make sure your MATLAB version is greater than or equal to R2020A. This app might not run in other versions of MATLAB.
 
