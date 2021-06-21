@@ -13,10 +13,11 @@
 **NOTE:** Make sure your MATLAB version is greater than or equal to R2020A. This app might not run in other versions of MATLAB.
 
 ### Steps to follow:
-1. Clone this repository or copy all the files in the repository to a single folder.
-
-2. Open MATLAB (version >= R2020A) and navigate to the folder that contains this repository, which we made in the previous step.
-3. Right click "CovidDataVisualizer.mlapp" and press **RUN**. Or, type "CovidDataVisualizer.mlapp" in the command window and press enter.
-4. Now, the MATLAB app will start running and you can specify the nation that you need to visualize.
+1. Download the source code of this project. To download the source code, [click here](https://github.com/rahulv07/COVID-19-Visualization/releases)
+2. Extract the files from the zip folder to the desired folder in you computer.
+3. - MATLAB online users : Upload the extracted source code files to your MATLAB drive. 
+   - Offline MATLAB users : Navigate to the extracted files folder in your computer.
+4. Right click "CovidDataVisualizer.mlapp" and press **RUN**. Or, type "CovidDataVisualizer.mlapp" (without quotes) in the command window and press enter.
+5. Now, the MATLAB app will start running and you can specify the nation that you need to visualize.
 
  
