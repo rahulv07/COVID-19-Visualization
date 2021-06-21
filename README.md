@@ -4,10 +4,10 @@
 ## Screenshots:
 
 ### Number of daily cases in India:
-<img src="images/indian cases.png" align="left" height="400" width="450">
+<img src="images/indian cases.png" align="center" height="400" width="450">
 
 ### Number of daily cases and Deaths in India: 
-<img src="images/cases and deaths.png" align="left" height="400" width="450">
+<img src="images/cases and deaths.png" align="center" height="400" width="450">
 
 
 **NOTE:** Make sure your MATLAB version is greater than or equal to R2020A. This app might not run in other versions of MATLAB.
